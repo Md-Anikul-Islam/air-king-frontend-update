@@ -675,8 +675,12 @@ p {
      object-position: center;
 }
 .product-section .product-card .product-content {
-  text-align: center;
   margin: 10px 0;
+}
+@media screen and (max-width: 991.98px) {
+  .product-section .product-card .product-content {
+    text-align: center;
+  }
 }
 .product-section .product-card .product-content .product-title {
   font-size: 18px;
@@ -693,6 +697,16 @@ p {
 @media screen and (max-width: 575px) {
   .product-section .product-card .product-content .product-desc {
     font-size: 12px;
+  }
+}
+@media (max-width: 1199.98px) {
+  .product-section .product-card .product-content .buy-btn {
+    font-size: 14px;
+  }
+}
+@media (max-width: 575px) {
+  .product-section .product-card .product-content .buy-btn {
+    font-size: 13px;
   }
 }
 

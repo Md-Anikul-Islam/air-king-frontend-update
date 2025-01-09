@@ -91,11 +91,14 @@
                                 alt="product-img"
                             />
                         </div>
-                        <div class="product-content">
-                            <h4 class="product-title">Hi-Cool</h4>
-                            <p class="product-desc">
-                                Aluminium (56")
-                            </p>
+                        <div class="product-content px-lg-2 d-flex justify-content-between align-items-center flex-column flex-lg-row">
+                            <div>
+                                <h4 class="product-title">Hi-Cool</h4>
+                                <p class="product-desc">
+                                    Aluminium (56")
+                                </p>
+                            </div>
+                            <a href="" class="btn btn-outline-primary text-nowrap buy-btn mt-1 mt-lg-0">Request To Buy</a>
                         </div>
                     </div>
                 </div>
@@ -108,11 +111,14 @@
                                 alt="product-img"
                             />
                         </div>
-                        <div class="product-content">
-                            <h4 class="product-title">Deluxe Classic</h4>
-                            <p class="product-desc">
-                                Aluminium (56")
-                            </p>
+                        <div class="product-content px-lg-2 d-flex justify-content-between align-items-center flex-column flex-lg-row">
+                            <div>
+                                <h4 class="product-title">Deluxe Classic</h4>
+                                <p class="product-desc">
+                                    Aluminium (56")
+                                </p>
+                            </div>
+                            <a href="" class="btn btn-outline-primary text-nowrap buy-btn mt-1 mt-lg-0">Request To Buy</a>
                         </div>
                     </div>
                 </div>
@@ -125,11 +131,14 @@
                                 alt="product-img"
                             />
                         </div>
-                        <div class="product-content">
-                            <h4 class="product-title">Deluxe</h4>
-                            <p class="product-desc">
-                                Aluminium (56")
-                            </p>
+                        <div class="product-content px-lg-2 d-flex justify-content-between align-items-center flex-column flex-lg-row">
+                            <div>
+                                <h4 class="product-title">Deluxe</h4>
+                                <p class="product-desc">
+                                    Aluminium (56")
+                                </p>
+                            </div>
+                            <a href="" class="btn btn-outline-primary text-nowrap buy-btn mt-1 mt-lg-0">Request To Buy</a>
                         </div>
                     </div>
                 </div>
@@ -142,11 +151,14 @@
                                 alt="product-img"
                             />
                         </div>
-                        <div class="product-content">
-                            <h4 class="product-title">Deluxe Popular</h4>
-                            <p class="product-desc">
-                                Steel (56")
-                            </p>
+                        <div class="product-content px-lg-2 d-flex justify-content-between align-items-center flex-column flex-lg-row">
+                            <div>
+                                <h4 class="product-title">Deluxe Popular</h4>
+                                <p class="product-desc">
+                                    Steel (56")
+                                </p>
+                            </div>
+                            <a href="" class="btn btn-outline-primary text-nowrap buy-btn mt-1 mt-lg-0">Request To Buy</a>
                         </div>
                     </div>
                 </div>
@@ -159,11 +171,14 @@
                                 alt="product-img"
                             />
                         </div>
-                        <div class="product-content">
-                            <h4 class="product-title">Deluxe Smart</h4>
-                            <p class="product-desc">
-                                Aluminium (36")
-                            </p>
+                        <div class="product-content px-lg-2 d-flex justify-content-between align-items-center flex-column flex-lg-row">
+                            <div>
+                                <h4 class="product-title">Deluxe Smart</h4>
+                                <p class="product-desc">
+                                    Aluminium (36")
+                                </p>
+                            </div>
+                            <a href="" class="btn btn-outline-primary text-nowrap buy-btn mt-1 mt-lg-0">Request To Buy</a>
                         </div>
                     </div>
                 </div>
@@ -176,11 +191,14 @@
                                 alt="product-img"
                             />
                         </div>
-                        <div class="product-content">
-                            <h4 class="product-title">Deluxe Mini</h4>
-                            <p class="product-desc">
-                                Steel (36")
-                            </p>
+                        <div class="product-content px-lg-2 d-flex justify-content-between align-items-center flex-column flex-lg-row">
+                            <div>
+                                <h4 class="product-title">Deluxe Mini</h4>
+                                <p class="product-desc">
+                                    Steel (36")
+                                </p>
+                            </div>
+                            <a href="" class="btn btn-outline-primary text-nowrap buy-btn mt-1 mt-lg-0">Request To Buy</a>
                         </div>
                     </div>
                 </div>
