@@ -3,13 +3,24 @@
     <!-- Banner Section Start -->
     <section class="banner-section">
         <div class="banner-slider">
+            <!-- single slider start -->
             <div>
                 <img
-                    src="{{URL::to('assets/images/banner/slider-1.jpg')}}"
-                    class="object-fit-contain w-100"
-                    alt="banner-img"
+                src="{{URL::to('assets/images/banner/slider-1.jpg')}}"
+                class="object-fit-contain w-100"
+                alt="banner-img"
                 />
             </div>
+            <!-- single slider end -->
+            <!-- single slider start -->
+            <div>
+                <img
+                src="{{URL::to('assets/images/banner/slider-1.jpg')}}"
+                class="object-fit-contain w-100"
+                alt="banner-img"
+                />
+            </div>
+            <!-- single slider end -->
         </div>
     </section>
     <!-- Banner section end -->

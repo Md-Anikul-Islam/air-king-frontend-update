@@ -230,13 +230,13 @@
 <!-- Footer section end -->
 
 <!-- All Js File -->
-<script src="{{asset('assets/assets/js/vendor/jquery-3.6.4.min.js')}}"></script>
-<script src="{{asset('assets/assets/js/bootstrap.bundle.min.js')}}"></script>
-<script src="{{asset('assets/assets/js/jquery.appear.js')}}"></script>
-<script src="{{asset('assets/assets/js/odometer.min.js')}}"></script>
-<script src="{{asset('assets/assets/js/slick.min.js')}}"></script>
-<script src="{{asset('assets/assets/js/jquery.magnific-popup.js')}}"></script>
-<script src="{{asset('assets/assets/js/clipboard.min.js')}}"></script>
-<script src="{{asset('assets/assets/js/script.js')}}"></script>
+<script src="{{asset('assets/js/vendor/jquery-3.6.4.min.js')}}"></script>
+<script src="{{asset('assets/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{asset('assets/js/jquery.appear.js')}}"></script>
+<script src="{{asset('assets/js/odometer.min.js')}}"></script>
+<script src="{{asset('assets/js/slick.min.js')}}"></script>
+<script src="{{asset('assets/js/jquery.magnific-popup.js')}}"></script>
+<script src="{{asset('assets/js/clipboard.min.js')}}"></script>
+<script src="{{asset('assets/js/script.js')}}"></script>
 </body>
 </html>
