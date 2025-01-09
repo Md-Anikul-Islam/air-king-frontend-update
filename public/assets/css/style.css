@@ -229,14 +229,14 @@ p {
 }
 @media (max-width: 1199.98px) {
   .section-title .title {
-    font-size: 40px;
-    line-height: 55px;
+    font-size: 36px;
+    line-height: 45px;
   }
 }
 @media (max-width: 991.98px) {
   .section-title .title {
-    font-size: 36px;
-    line-height: 50px;
+    font-size: 30px;
+    line-height: 45px;
   }
 }
 
