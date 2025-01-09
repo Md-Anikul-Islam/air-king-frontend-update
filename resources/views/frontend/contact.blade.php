@@ -16,7 +16,7 @@
                         <div class="branch-content d-flex flex-column align-items-center gap-2">
                             <h4 class="branch-title">Head Office</h4>
                             <p class="branch-desc text-center">
-                                এয়ারকিং ইলেকট্রিক্যাল এন্ড ইলেকট্রনিক্স কোঃ লিঃ মালিকের নামঃ মোঃ হাবিবুর রহমান, হোল্ডিং নম্বরঃ ১১১/১, ওয়ার্ড নংঃ ১, রাস্তার নামঃ মাধবপুর রোড, মহল্লাঃ শিবরামপুর,নগর ভবন, গাজীপুর
+                                Airking Electrical and Electronics Co. Ltd. Holding Number: 111/1, Ward No: 1, Street Name: Madhabpur Road, Area: Shibramapur, Nagar Bhaban, Gazipur
                             </p>
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                         <div class="branch-content d-flex flex-column align-items-center gap-2">
                             <h4 class="branch-title">Factory</h4>
                             <p class="branch-desc text-center">
-                                এয়ারকিং ইলেকট্রিক্যাল এন্ড ইলেকট্রনিক্স কোঃ লিঃ মালিকের নামঃ মোঃ হাবিবুর রহমান, হোল্ডিং নম্বরঃ ১১১/১, ওয়ার্ড নংঃ ১, রাস্তার নামঃ মাধবপুর রোড, মহল্লাঃ শিবরামপুর,নগর ভবন, গাজীপুর
+                            Airking Electrical and Electronics Co. Ltd. Holding Number: 111/1, Ward No: 1, Street Name: Madhabpur Road, Area: Shibramapur, Nagar Bhaban, Gazipur
                             </p>
                         </div>
                     </div>

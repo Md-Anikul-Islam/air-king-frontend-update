@@ -58,7 +58,7 @@
                     </li>
                 </ul>
                 <a
-                    href="tel:+8801719753784"
+                    href="tel:+8801615755001"
                     class="call-to-action d-flex align-items-center"
                 >
                     <div class="icon rounded-pill">
@@ -66,7 +66,7 @@
                     </div>
                     <div class="info">
                         <p>Want A Discount?</p>
-                        <h6>+880 1719-753784</h6>
+                        <h6>+880 1615-755001</h6>
                     </div>
                 </a>
             </div>
@@ -132,7 +132,7 @@
             </div>
             <div class="call-us p-4">
                 <a
-                    href="tel:+880 1719-753784"
+                    href="tel:+8801615755001"
                     class="call-to-action d-flex align-items-center"
                 >
                     <div
@@ -141,8 +141,8 @@
                         <i class="fa-solid fa-phone"></i>
                     </div>
                     <div class="info">
-                        <p class="help"> Want A Discount?</p>
-                        <h5 class="number">+880 1719-753784</h5>
+                        <p class="help">Want A Discount?</p>
+                        <h5 class="number">+880 1615-755001</h5>
                     </div>
                 </a>
             </div>
@@ -207,7 +207,7 @@
                             <li class="d-flex gap-2 align-items-start">
                                 <i class="fa-solid fa-map-marker mt-2"></i>
                                 <span
-                                >এয়ারকিং ইলেকট্রিক্যাল এন্ড ইলেকট্রনিক্স কোঃ লিঃ মালিকের নামঃ মোঃ হাবিবুর রহমান, হোল্ডিং নম্বরঃ ১১১/১, ওয়ার্ড নংঃ ১, রাস্তার নামঃ মাধবপুর রোড, মহল্লাঃ শিবরামপুর,নগর ভবন, গাজীপুর</span
+                                >Airking Electrical and Electronics Co. Ltd. Holding Number: 111/1, Ward No: 1, Street Name: Madhabpur Road, Area: Shibramapur, Nagar Bhaban, Gazipur</span
                                 >
                             </li>
                             <li class="d-flex gap-2 align-items-center">
@@ -218,7 +218,7 @@
                             <li class="d-flex gap-2 align-items-center">
                                 <i class="fa-solid fa-phone"></i>
 
-                                <a href="tel:+8801719753784">(+880)1719-753784</a>
+                                <a href="tel:+8801615755001">(+880)1615-755001</a>
                             </li>
                         </ul>
                     </div>
