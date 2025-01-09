@@ -1,0 +1,184 @@
+/*
+  Theme Name: Air-King Template
+  Support: mr.rafiqulthedev@gmail.com
+  Description: Air-King Template
+  Version: 1.0
+*/
+
+/* CSS Index
+============================
+*** Template Components ***
+============================
+01. Variable CSS
+02. Common CSS
+03. Header CSS
+04. Banner CSS
+05. About CSS
+06. Upcoming-Section CSS
+07. Product CSS
+08. Branch CSS
+
+*** Template Pages ***
+=========================
+09. About Page CSS
+============================
+*/
+
+/*=============================
+	1. Google Fonts
+===============================*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Space+Grotesk:wght@300..700&display=swap");
+
+/*=============================
+	01. Variable CSS Start
+===============================*/
+
+:root {
+  --primary: #0044eb;
+  --black: #020842;
+  --secondary: #ffbe16;
+  --tertiary: #47b16a;
+  --paragraph-color: #49515b;
+  --bg-one: #f1f6fc;
+  --bg-two: #0f144b;
+  --bg-three: #020842;
+  --font-Space: "Space Grotesk", serif;
+  --font-inter: "Inter", sans-serif;
+  --font-size: 18px;
+  --font-weight: 400;
+  --transition: all linear 0.3s;
+  --body-background: #ffffff;
+  --border-color: #cccccc;
+  --linear-gradient: linear-gradient(
+    180deg,
+    rgba(14, 43, 197, 0) 0%,
+    #0e2bc5 100%
+  );
+  --shadow: 0px 1px 8px 0px rgba(0,0,0,0.52);
+}
+
+/*=============================
+	02. Common CSS start
+===============================*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+a,
+button {
+  display: inline-block;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: var(--font-inter);
+  font-size: var(--font-size);
+  font-weight: var(--font-weight);
+  color: var(--paragraph-color);
+  line-height: 160%;
+  background: var(--body-background);
+  overflow-x: hidden;
+}
+::selection{
+  background: var(--tertiary);
+  color: white;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-Space);
+  font-weight: 700;
+  color: var(--black);
+}
+p {
+  color: var(--paragraph-color);
+  letter-spacing: -0.36px;
+}
+// section bg
+.section-bg{
+  background: var(--bg-one);
+}
+// custom padding class
+.py-120{
+  padding: 120px 0;
+  @media (max-width:991.98px) {
+    padding: 60px 0;
+  }
+}
+.pt-120{
+  padding-top: 120px;
+}
+
+
+// Theme btn css
+.theme-btn {
+  padding: 15px 30px;
+  border-radius: 999px;
+  font-family: var(--font-Space);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  transition: var(--transition);
+  .btn-arrow {
+    margin-left: 10px;
+    .btn-arrow-fill {
+      fill: white;
+    }
+  }
+}
+
+.theme-btn-primary {
+  background: var(--primary);
+  border: 1px solid var(--primary);
+  color: white;
+  position: relative;
+  z-index: 9;
+  &::before{
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 999px;
+    top: 0;
+    left: 0;
+    content: "";
+    transform: scale(0);
+    background: var(--black);
+    z-index: -1;
+    transition: var(--transition);
+  }
+  &:hover{
+    &::before{
+      transform: scale(1);
+    }
+  }
+
+}
+
+.theme-btn-border {
+  background: transparent;
+  border: 1px solid var(--border-color);
+}
