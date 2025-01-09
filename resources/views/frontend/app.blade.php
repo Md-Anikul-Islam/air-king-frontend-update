@@ -56,6 +56,14 @@
                     <li class="nav-item">
                         <a class="nav-link" href="{{route('contact')}}">Contact</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link">Our Team <i class="fa-solid fa-angle-down"></i>
+                    </a>
+                        <ul class="sub-menu list-unstyled">
+                            <li><a href='#'>Executive Team</a></li>
+                            <li><a href='#'>Gallery</a></li>
+                        </ul>
+                    </li>
                 </ul>
                 <a
                     href="tel:+8801615755001"
@@ -126,6 +134,13 @@
                         </li>
                         <li class="sub-mobile-menu">
                             <a href="{{route('contact')}}">Contact</a>
+                        </li>
+                        <li class="sub-mobile-menu">
+                            <a>Our Team <i class="fas fa-chevron-down float-end"></i></a>
+                            <ul class="list-unstyled">
+                                <li><a href='#'>Executive Team</a></li>
+                                <li><a href='#'>Gallery</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
