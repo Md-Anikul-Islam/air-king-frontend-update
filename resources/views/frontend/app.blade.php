@@ -19,7 +19,6 @@
     <!-- CSS here -->
     <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/fontawsome/css/fontawesome.css')}}" />
-    <link rel="stylesheet" href="{{asset('assets/css/odometer.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/css/slick.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/css/magnific-popup.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/css/animate.min.css')}}" />
@@ -88,7 +87,7 @@
             <div class="mobile-topbar">
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="/">
                             <img
                                 src="{{URL::to('assets/images/logo/logo.png')}}"
                                 style="max-width: 70px"
@@ -108,7 +107,7 @@
         <div class="mobile-menu-main">
             <div class="d-flex align-items-center justify-content-between pe-2">
                 <div class="logo">
-                    <a href="./index.html">
+                    <a href="/">
                         <img
                             src="{{URL::to('assets/images/logo/logo.png')}}"
                             style="width: 100px"
@@ -248,10 +247,8 @@
 <script src="{{asset('assets/js/vendor/jquery-3.6.4.min.js')}}"></script>
 <script src="{{asset('assets/js/bootstrap.bundle.min.js')}}"></script>
 <script src="{{asset('assets/js/jquery.appear.js')}}"></script>
-<script src="{{asset('assets/js/odometer.min.js')}}"></script>
 <script src="{{asset('assets/js/slick.min.js')}}"></script>
 <script src="{{asset('assets/js/jquery.magnific-popup.js')}}"></script>
-<script src="{{asset('assets/js/clipboard.min.js')}}"></script>
 <script src="{{asset('assets/js/script.js')}}"></script>
 </body>
 </html>
