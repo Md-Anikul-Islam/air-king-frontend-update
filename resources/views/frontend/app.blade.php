@@ -60,7 +60,7 @@
                     </a>
                         <ul class="sub-menu list-unstyled">
                             <li><a href="{{route('team')}}">Executive Team</a></li>
-                            <li><a href='#'>Gallery</a></li>
+                            <li><a href="{{route('gallery')}}">Gallery</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -138,7 +138,7 @@
                             <a>Our Team <i class="fas fa-chevron-down float-end"></i></a>
                             <ul class="list-unstyled">
                                 <li><a href="{{route('team')}}">Executive Team</a></li>
-                                <li><a href='#'>Gallery</a></li>
+                                <li><a href="{{route('gallery')}}">Gallery</a></li>
                             </ul>
                         </li>
                     </ul>

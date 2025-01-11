@@ -30,4 +30,8 @@ class HomeController extends Controller
     {
         return view('frontend.team');
     }
+    public function gallery()
+    {
+        return view('frontend.gallery');
+    }
 }
