@@ -43,10 +43,10 @@
                         <div class="section-title">
                             <h6 class="sub-title">MD's Message</h6>
                             <h2 class="title">
-                                "To be a leader in the field of Electrical and Electronics Engineering"
+                                "Quality is Our Top Priority"
                             </h2>
                         </div>
-                        <p class='mt-2'>
+                        <p class='mt-3'>
                             "At Air King Electrical & Electronic Co. Ltd., we are committed to providing innovative and cost-effective solutions to our valued customers. Our mission is to be a leader in the field of Electrical and Electronics Engineering by offering high-quality products and services that meet the needs of our customers. We strive to continuously improve our products and services through research and development, while maintaining a strong focus on customer satisfaction and safety."
                         </p>
                     </div>

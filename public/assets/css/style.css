@@ -20,6 +20,7 @@
 *** Template Pages ***
 =========================
 09. About Page CSS
+10. Team Page CSS
 ============================
 */
 /*=============================
@@ -134,7 +135,7 @@ p {
 }
 @media (max-width: 991.98px) {
   .py-120 {
-    padding: 60px 0;
+    padding: 70px 0;
   }
 }
 
@@ -826,5 +827,36 @@ p {
 @media (max-width: 991.98px) {
   .why-us .why-us-content .why-list .why-item {
     font-size: 16px;
+  }
+}
+
+/*=============================
+	10. Team Page CSS Start
+===============================*/
+.team-section .team-card {
+  height: 100% !important;
+  width: 100%;
+  -webkit-transition: var(--transition);
+  transition: var(--transition);
+}
+.team-section .team-card:hover {
+  -webkit-transform: translateY(-10px);
+          transform: translateY(-10px);
+}
+.team-section .team-card .team-content .team-name {
+  text-wrap: nowrap;
+  text-align: center;
+}
+@media (max-width: 575.98px) {
+  .team-section .team-card .team-content .team-name {
+    font-size: 16px;
+  }
+}
+.team-section .team-card .team-content .team-desc {
+  text-wrap: nowrap;
+}
+@media (max-width: 575.98px) {
+  .team-section .team-card .team-content .team-desc {
+    font-size: 12px;
   }
 }

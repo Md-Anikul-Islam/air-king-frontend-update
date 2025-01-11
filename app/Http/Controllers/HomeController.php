@@ -26,4 +26,8 @@ class HomeController extends Controller
     {
         return view('frontend.product');
     }
+    public function team()
+    {
+        return view('frontend.team');
+    }
 }
