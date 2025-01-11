@@ -2,7 +2,7 @@
 @section('home_content')
 
     <!-- Upcoming section Start -->
-    <section class="upcoming-section py-120">
+    <section class="upcoming-section py-120 mt-5 mt-lg-2">
         <div class="container">
             <div class="section-title text-center mb-1">
                 <h2 class="sub-title">Our Upcoming Product</h2>

@@ -379,7 +379,12 @@ p {
   padding: 0;
 }
 .sticky-menu .call-to-action .icon {
-  background-color: var(--bg-one) !important;
+  background-color: white;
+}
+@media (max-width: 1199.98px) {
+  .sticky-menu .call-to-action .icon {
+    background-color: var(--bg-one) !important;
+  }
 }
 .sticky-menu .call-to-action .icon:hover {
   background-color: var(--primary);
@@ -862,7 +867,7 @@ p {
 }
 
 .md-message-section {
-  padding: 117px 0;
+  padding: 120px 0;
 }
 @media (max-width: 767.98px) {
   .md-message-section {

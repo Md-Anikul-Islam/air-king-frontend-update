@@ -134,7 +134,10 @@
 
   .call-to-action {
     .icon {
-      background-color: var(--bg-one) !important;
+      background-color: white;
+      @media (max-width: 1199.98px) {
+        background-color: var(--bg-one) !important;
+      }
 
       &:hover {
         background-color: var(--primary);
