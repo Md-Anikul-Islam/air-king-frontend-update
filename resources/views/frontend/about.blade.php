@@ -54,8 +54,7 @@
                         <div class="branch-content d-flex flex-column align-items-center gap-2">
                             <h4 class="branch-title">Head Office</h4>
                             <p class="branch-desc text-center">
-                                Shena Shopping Complex, Shop No: E-74, 5th Floor, Nabinagar,
-                                Savar, Dhaka
+                            Airking Electrical and Electronics Co. Ltd. Holding Number: 111/1, Ward No: 1, Madhabpur Road, Shibramapur, Nagar Bhaban, Gazipur
                             </p>
                         </div>
                     </div>
@@ -75,7 +74,7 @@
                         <div class="branch-content d-flex flex-column align-items-center gap-2">
                             <h4 class="branch-title">Factory</h4>
                             <p class="branch-desc text-center">
-                                Madhobpur, Kashimpur, Gazipur, Bangladesh
+                            Airking Electrical and Electronics Co. Ltd. Holding Number: 111/1, Ward No: 1, Madhabpur Road, Shibramapur, Nagar Bhaban, Gazipur
                             </p>
                         </div>
                     </div>

@@ -118,7 +118,7 @@
                             and Electronic Company Ltd." emerges as a prominent entity.
                             This is a Private Limited Company registered under the Joint
                             Stock Companies of the Government of Bangladesh.
-                            <a href="./about.html" class="learn-more">Learn More..</a>
+                            <a href="{{route('about')}}" class="learn-more">Learn More..</a>
                         </p>
                     </div>
                 </div>
