@@ -1,7 +1,7 @@
 @extends('frontend.app')
 @section('home_content')
 <!-- MD message section Start -->
-<section class="about-section md-msg-section py-120 section-bg">
+<section class="md-message-section about-section section-bg">
     <div class="container">
         <div class="row g-4 align-items-center">
             <div class="col-md-6 pe-lg-5">

@@ -10,17 +10,17 @@
         &:hover {
             transform: translateY(-10px);
         }
-        .team-content{
-            .team-name{
+        .team-content {
+            .team-name {
                 text-wrap: nowrap;
                 text-align: center;
-                @media (max-width: 575.98px){
+                @media (max-width: 575.98px) {
                     font-size: 16px;
                 }
             }
-            .team-desc{
+            .team-desc {
                 text-wrap: nowrap;
-                @media (max-width: 575.98px){
+                @media (max-width: 575.98px) {
                     font-size: 12px;
                 }
             }

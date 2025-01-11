@@ -860,3 +860,12 @@ p {
     font-size: 12px;
   }
 }
+
+.md-message-section {
+  padding: 117px 0;
+}
+@media (max-width: 767.98px) {
+  .md-message-section {
+    padding-bottom: 70px;
+  }
+}

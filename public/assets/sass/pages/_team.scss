@@ -1,1 +1,7 @@
 @import "../components/team";
+.md-message-section{
+    padding: 117px 0;
+    @media  (max-width: 767.98px){
+       padding-bottom: 70px; 
+    }
+}
