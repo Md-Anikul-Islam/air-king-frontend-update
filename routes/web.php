@@ -24,3 +24,7 @@ Route::get('/contact', [HomeController::class,'contact'])->name('contact');
 Route::get('/product', [HomeController::class,'product'])->name('product');
 Route::get('/team', [HomeController::class,'team'])->name('team');
 Route::get('/gallery', [HomeController::class,'gallery'])->name('gallery');
+
+
+//Request to buy
+Route::post('/product-request', [HomeController::class,'productRequest'])->name('product.request');

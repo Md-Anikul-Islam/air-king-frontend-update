@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Yoeunes\Toastr\Facades\Toastr;
 
 class HomeController extends Controller
 {
@@ -34,4 +36,31 @@ class HomeController extends Controller
     {
         return view('frontend.gallery');
     }
+
+
+    public function productRequest(Request $request)
+    {
+        $request->validate([
+            'product_name' => 'required',
+            'name' => 'required',
+            'phone' => 'required',
+            'address' => 'required',
+        ]);
+
+        DB::table('product_requests')->insert([
+            'product_name' => $request->product_name,
+            'name' => $request->name,
+            'email' => $request->email,
+            'phone' => $request->phone,
+            'address' => $request->address,
+            'created_at' => now(),
+            'updated_at' => now(),
+        ]);
+
+        Toastr::success('Product Request Send Successfully', 'Success');
+        return redirect()->back();
+
+    }
+
+
 }
