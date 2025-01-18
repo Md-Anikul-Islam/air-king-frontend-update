@@ -6,7 +6,7 @@
             <!-- single slider start -->
             <div>
                 <img
-                src="{{URL::to('assets/images/banner/slider-1.jpg')}}"
+                src="{{URL::to('assets/images/banner/slider-1.png')}}"
                 class="object-fit-contain w-100"
                 alt="banner-img"
                 />
