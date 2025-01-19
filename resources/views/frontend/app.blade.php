@@ -20,7 +20,6 @@
     <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/fontawsome/css/fontawesome.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/css/slick.css')}}" />
-    <link rel="stylesheet" href="{{asset('assets/css/magnific-popup.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/css/animate.min.css')}}" />
     <link rel="stylesheet" href="{{asset('assets/css/style.css')}}" />
 </head>
